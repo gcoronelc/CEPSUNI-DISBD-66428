@@ -6,8 +6,8 @@
 
 - Nombre: DISEÑO DE BASE DE DATOS RELACIONALES
 - Lugar: CEPS-UNI
-- Horario: LU, MI y VI de 19 - 22 Horas
-- Inicio: 12-ENE-2024
+- Horario: DOM 14-18 Horas
+- Inicio: 23-JUN-2024
 - Duración: 24 Horas
 - URL DEL CURSO: https://www.ceps.uni.edu.pe/tienda/programa-sql-server-data-base-administrator/diseno-de-base-de-datos
 - Dirección: https://goo.gl/maps/PyC3Ek8MXW3bVZoC7

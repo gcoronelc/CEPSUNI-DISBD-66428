@@ -1,13 +1,12 @@
 FECHA DE ENTREGA (INFORME + EXPOSICION/VIDEO)
 -----------------------------------------------
-Clase 1 12.ENE.2024: 
-Clase 2 15.ENE.2024: 
-Clase 3 17.ENE.2024: => PC1
-Clase 4 19.ENE.2024: 
-Clase 5 22.ENE.2024: => PC2
-Clase 6 24.ENE.2024: => 
-Clase 7 26.ENE.2024: => PC3
-Clase 8 29.ENE.2024: => PC4, EXAMEN FINAL
+Clase 1 23.JUN.2024: 
+Clase 2 30.JUN.2024: => PC1
+Clase 3 07.JUL.2024: => PC2
+Clase 4 14.JUL.2024: => PC3
+Clase 5 21.JUL.2024: => PC4
+Clase 6 04.AGO.2024: => EXAMEN FINAL
+
 
 SISTEMA DE CALIFICACIÓN
 -------------------------------------------------
@@ -17,5 +16,5 @@ SISTEMA DE CALIFICACIÓN
 - PF = ( PP + EF ) / 2
 
 Correo de trabajos: egcc.uni@gmail.com
-En asunto: DISBD-64751-GRUPO-#-PRACTICA-#
+En asunto: DISBD-66428-GRUPO-#-PRACTICA-#
 
